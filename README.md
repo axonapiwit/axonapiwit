@@ -16,7 +16,7 @@
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="360">
+<img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="300">
 
 ```javascript
 const Apiwit = {
