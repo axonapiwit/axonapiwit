@@ -16,4 +16,13 @@ Here are some ideas to get you started:
 
 -->
 
-<a href="https://fictionhorizon.com/wp-content/uploads/2021/08/Solo-Leveling-Anime-Release-Date-Trailer-Plot-Cast-And-More-00.jpg" height="500" width="1200"><img align="center" /></a>
+<img src="https://c.tenor.com/JdNUpNR0x_oAAAAd/ousama-ranking-ranking-of-kings.gif" alight="center" width="100%"> 
+
+<img src="https://c.tenor.com/-2bDOemnX0IAAAAd/bojji-ranking.gif" alight="center" width="100%"> 
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=axonapiwit&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
