@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-<img src="https://c.tenor.com/JdNUpNR0x_oAAAAd/ousama-ranking-ranking-of-kings.gif" alight="center" width="100%"> 
+<img src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" alight="center" width="100%"> 
 
 <img src="https://c.tenor.com/-2bDOemnX0IAAAAd/bojji-ranking.gif" alight="center" width="100%"> 
 
