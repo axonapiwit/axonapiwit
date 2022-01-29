@@ -7,7 +7,8 @@
 </p>
  -->
 <h2> Hi there 👋, I'm Aont Apiwit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Phayao</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Internship at <a href="https://www.thoughtworks.com">Onedde Solution</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at University of Phayao<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</br>Internship at Onedee Solution<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle)
@@ -35,7 +36,7 @@ const Apiwit = {
         editor: [VSCode, Android Studio],
         },
   architecture: ["2nd Place Reward HansHackthon"],
- challenge: "I am doing the #100DaysOfCode challenge focused on flutter"
+  challenge: "I am doing the #100DaysOfCode challenge focused on flutter"
 }
 ```
 
