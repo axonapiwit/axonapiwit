@@ -6,16 +6,17 @@
   </a>
 </p>
  -->
-<h2> Hi there 👋, I'm Aont Apiwit! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at University of Phayao<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-</br>Internship at Onedee Solution<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h2> Hi there 👋, I'm Aont Apiwit! <img src="https://c.tenor.com/LG5kdQYR2zkAAAAi/anime-love.gif" width="50"></h2>
+<p><em>Software Enginner at University of Phayao<img src="https://c.tenor.com/xggBaDYUIaIAAAAi/dudu-bubu.gif" width="25">
+</br>
+Internship at <a href="https://www.onedee.ai/th/">OneDee Solution Co., Ltd.</a><img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
 </em></p>
 
 [![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle)
 [![GitHub axonapiwit](https://img.shields.io/github/followers/axonapiwit?label=follow&style=social)](https://github.com/axonapiwit)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://c.tenor.com/MR3Q248Cv5oAAAAi/waifu.gif" width="50"> A little more about me...  
 <img align='right' src="https://c.tenor.com/qbWJoFIh5mQAAAAd/ranking-of.gif" width="300">
 
 ```javascript
@@ -36,7 +37,7 @@ const Apiwit = {
         editor: [VSCode, Android Studio],
         },
   architecture: ["2nd Place Reward HansHackthon"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on flutter"
+  challenge: "I am doing the #60DaysOfCode challenge focused on flutter"
 }
 ```
 
