@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 -->
 
-<a href="https://p.favim.com/orig/2018/11/14/gif-anime-girl-anime-food-Favim.com-6583433.gif" ><img align="center" height="500" width="1200"/></a>
+<a href="https://p.favim.com/orig/2018/11/14/gif-anime-girl-anime-food-Favim.com-6583433.gif" ><img align="center" /></a>
