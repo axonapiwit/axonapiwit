@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://cdn.myanimelist.net/s/common/uploaded_files/1473855404-49497c0beb2994ef8dc70397b48dffd7.gif" target="blank"><img align="center" height="100" /></a>
+<a href="https://cdn.myanimelist.net/s/common/uploaded_files/1473855404-49497c0beb2994ef8dc70397b48dffd7.gif" >
+  <img align="center" height="300" width="400" /></a>
