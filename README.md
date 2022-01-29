@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
--->
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -16,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="https://cdn.myanimelist.net/s/common/uploaded_files/1473855404-49497c0beb2994ef8dc70397b48dffd7.gif" >
-  <img align="center" height="300" width="400" /></a>
+-->
+
+<a href="https://p.favim.com/orig/2018/11/14/gif-anime-girl-anime-food-Favim.com-6583433.gif" ><img align="center" height="500" width="1200"/></a>
