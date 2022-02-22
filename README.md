@@ -15,7 +15,8 @@ Internship at <a href="https://www.onedee.ai/th/">OneDee Solution Co., Ltd.</a><
 [![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle)
 [![GitHub axonapiwit](https://img.shields.io/github/followers/axonapiwit?label=follow&style=social)](https://github.com/axonapiwit)
 <img src="https://komarev.com/ghpvc/?username=axonapiwit&label=Profile%20views&color=0e75b6&style=flat" alt="axonapiwit" /> 
-  <a href="https://wakatime.com/@48ee0ba4-c98a-4f6f-ae91-0f6bb3f5b206"><img src="https://wakatime.com/badge/user/9d428ed7-f009-46c0-ab5f-a18fe7073753.svg" alt="Total time coded since Feb 22 2022" /></a>
+<a href="https://wakatime.com/@48ee0ba4-c98a-4f6f-ae91-0f6bb3f5b206">
+<img src="https://wakatime.com/badge/user/3f531037-62ba-43cb-9c94-04e9770ac0bc.svg" alt="Total time coded since Feb 22 2022" /></a>
 
 
 ### <img src="https://c.tenor.com/MR3Q248Cv5oAAAAi/waifu.gif" width="50"> A little more about me...  
