@@ -12,7 +12,7 @@
 Internship at <a href="https://www.onedee.ai/th/">OneDee Solution Co., Ltd.</a><img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
 </em></p>
 
-[![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle)
+<!-- [![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle) -->
 [![GitHub axonapiwit](https://img.shields.io/github/followers/axonapiwit?label=follow&style=social)](https://github.com/axonapiwit)
 <img src="https://komarev.com/ghpvc/?username=axonapiwit&label=Profile%20views&color=0e75b6&style=flat" alt="axonapiwit" /> 
 <a href="https://wakatime.com/@axonapiwit">
