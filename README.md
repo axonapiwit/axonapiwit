@@ -26,9 +26,9 @@ Internship at <a href="https://www.onedee.ai/th/">OneDee Solution Co., Ltd.</a><
 ```javascript
 const Apiwit = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
+  code: [Javascript, Typescript, HTML, CSS, Java, C#],
   technologies: {
-        frontend: [Vue, Nuxt],
+        frontend: [Vue, Nuxt, Next, React, Getsby, Pixijs],
         backend: [Node, Nest, SpringBoot],
         mobile: [Flutter, ReactNative],
         game: [Unity, Godot],
