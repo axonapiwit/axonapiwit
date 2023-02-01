@@ -9,7 +9,7 @@
  <h2> Hi there 👋, I'm Aont Apiwit! <img src="https://c.tenor.com/LG5kdQYR2zkAAAAi/anime-love.gif" width="50"></h2>
 <p><em>Software Enginner at University of Phayao<img src="https://c.tenor.com/xggBaDYUIaIAAAAi/dudu-bubu.gif" width="25">
 </br>
-Internship at <a href="https://www.onedee.ai/th/">OneDee Solution Co., Ltd.</a><img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
+<img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
 </em></p>
 
 <!-- [![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle) -->
