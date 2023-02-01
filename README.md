@@ -41,7 +41,7 @@ const Apiwit = {
         editor: [VSCode, Android Studio],
         },
   architecture: ["2nd Place Reward HansHackthon"],
-  challenge: "I am doing the #21DaysOfCode challenge focused on React"
+<!--   challenge: "" -->
 }
 ```
 
