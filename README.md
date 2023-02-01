@@ -7,10 +7,10 @@
 </p>
  -->
  <h2> Hi there 👋, I'm Aont Apiwit! <img src="https://c.tenor.com/LG5kdQYR2zkAAAAi/anime-love.gif" width="50"></h2>
-<p><em>Software Enginner at University of Phayao<img src="https://c.tenor.com/xggBaDYUIaIAAAAi/dudu-bubu.gif" width="25">
+<p><em>Unity Developer at FICO<img src="https://c.tenor.com/xggBaDYUIaIAAAAi/dudu-bubu.gif" width="25">
 </br>
-<p>Unity Developer<img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
-</em></p>
+<!-- <p>Unity Developer<img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
+</em></p> -->
 
 <!-- [![Twitter: AxonZtyle](https://img.shields.io/twitter/follow/AxonZtyle?style=social)](https://twitter.com/AxonZtyle) -->
 [![GitHub axonapiwit](https://img.shields.io/github/followers/axonapiwit?label=follow&style=social)](https://github.com/axonapiwit)
