@@ -7,7 +7,7 @@
 </p>
  -->
  <h2> Hi there 👋, I'm Aont Apiwit! <img src="https://c.tenor.com/LG5kdQYR2zkAAAAi/anime-love.gif" width="50"></h2>
-<p><em>Unity Developer at FICO<img src="https://c.tenor.com/xggBaDYUIaIAAAAi/dudu-bubu.gif" width="25">
+<p><em>Frontend Developer at ...<img src="https://c.tenor.com/xggBaDYUIaIAAAAi/dudu-bubu.gif" width="25">
 </br>
 <!-- <p>Unity Developer<img src="https://c.tenor.com/eb_1cgXn1KQAAAAi/cute-please.gif" width="30"> 
 </em></p> -->
