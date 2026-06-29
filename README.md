@@ -41,7 +41,6 @@ const Apiwit = {
         editor: [VSCode, Android Studio],
         },
   architecture: ["2nd Place Reward HansHackthon"],
-<!--   challenge: "" -->
 }
 ```
 
